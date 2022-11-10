@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lilywn
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on django project
+- 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me lilywd101@gmail.com
 
 <!---
